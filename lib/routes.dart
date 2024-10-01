@@ -1,4 +1,5 @@
 import 'package:delivery/core/constant/routes.dart';
+import 'package:delivery/core/middleware/mymiddleware.dart';
 import 'package:delivery/view/screen/auth/forgetpassword/forgetpassword.dart';
 import 'package:delivery/view/screen/auth/forgetpassword/resetpassword.dart';
 import 'package:delivery/view/screen/auth/forgetpassword/success_resetpassword.dart';
@@ -12,7 +13,7 @@ List<GetPage<dynamic>>? getPages = [
  // GetPage(name: AppRoutes.cart, page: () => Cart()),
  // GetPage(name: AppRoutes.productdetails, page: () => Productdetails()),
  //  GetPage(name: "/", page: () => Test()),
-  GetPage(name: "/", page: () => Login()),
+  GetPage(name: "/", page: () => Login(),middlewares: [Mymiddleware()]),
    GetPage(name: AppRoutes.forgetpassword, page: () => Forgetpassword()),
   GetPage(name: AppRoutes.resetpassword, page: () => Resetpassword()),
   GetPage(
