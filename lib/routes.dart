@@ -6,6 +6,7 @@ import 'package:delivery/view/screen/auth/forgetpassword/success_resetpassword.d
 import 'package:delivery/view/screen/auth/forgetpassword/verifycode.dart';
 import 'package:delivery/view/screen/auth/login.dart';
 import 'package:delivery/view/screen/homescreen.dart';
+import 'package:delivery/view/screen/order/orderdetails.dart';
 import 'package:get/get_navigation/src/routes/get_route.dart';
 
 List<GetPage<dynamic>>? getPages = [
@@ -20,6 +21,7 @@ List<GetPage<dynamic>>? getPages = [
       name: AppRoutes.successresetpassword, page: () => SuccessResetpassword()),
   GetPage(name: AppRoutes.home, page: () => Homescreen()),
   GetPage(name: AppRoutes.verifycode, page: () => Verifycode()),
+  GetPage(name: AppRoutes.ordersdetails, page: () => Orderdetails()),
   
 
 ];
