@@ -14,8 +14,6 @@ Once an order is accepted, the delivery personnel can access all relevant detail
 After accepting an order, the delivery personnel is responsible for delivering the order to the customer. Upon successful delivery, the status of the order is updated to "Delivered."
 
 ## Note 
-
-### Note 
 Link of User Ecommerce: [Ecommerce_User_App](https://github.com/raedzayoud/Ecommece_User_App)  
 Link of Admin Ecommerce: [Admin_Ecommerce](https://github.com/raedzayoud/Admin_Ecommerce)  
 
