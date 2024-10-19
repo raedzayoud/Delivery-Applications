@@ -1,6 +1,6 @@
 # DeliveryEcommerce_App
 
-This section of the eCommerce platform allows the delivery personnel to manage incoming orders and oversee the delivery process. The delivery personnel has the authority to accept or reject orders, view detailed order information, and complete the delivery to the customer.
+This section of the ecommerce platform allows the delivery personnel to manage incoming orders and oversee the delivery process. The delivery personnel has the authority to accept or reject orders, view detailed order information, and complete the delivery to the customer.
 
 ## Delivery Key Features
 
