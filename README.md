@@ -17,4 +17,8 @@ After accepting an order, the delivery personnel is responsible for delivering t
 Link of User Ecommerce: [Ecommerce_User_App](https://github.com/raedzayoud/Ecommece_User_App)  
 Link of Admin Ecommerce: [Admin_Ecommerce](https://github.com/raedzayoud/Admin_Ecommerce)  
 
+## Contact Information
+
+For inquiries, please contact me at [**raed.zayoud.23@gmail.com**](mailto:raed.zayoud.23@gmail.com).
+
 
